@@ -2,11 +2,11 @@ const burg = document.querySelector(".burg");
 const navMenu = document.querySelector(".nav-menu");
 const ChangeLang = document.querySelector("#change-language");
 const LanguagesAvailable = document.querySelector(".choose-language");
-const allLangs = document.querySelector(".all-langs");
 
 burg.addEventListener("click", () => {
     burg.classList.toggle("active");
     navMenu.classList.toggle("active");
+    LanguagesAvailable.classList.remove("active");
 })
 
 
