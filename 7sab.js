@@ -24,4 +24,3 @@ document.querySelectorAll(".a , .all-langs-a ").forEach(n => n. addEventListener
         LanguagesAvailable.classList.remove("active");
     }))
     
-    
