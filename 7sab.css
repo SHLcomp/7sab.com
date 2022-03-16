@@ -124,7 +124,7 @@ li{
     .choose-language.active{
         display: flex;
         position: fixed;
-        top: 8cm;
+        top: 10cm;
         left: 3.5cm;
         padding: 0px 20px;
         transition: 0.3s;
