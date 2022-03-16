@@ -145,7 +145,7 @@ li{
         top: -7px;
     }
     
-    .burg.active.active .bar:nth-child(2){
+    .burg.active .bar:nth-child(2){
         opacity: 0;
     }
     .burg.active .bar:nth-child(1){
